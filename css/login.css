@@ -49,3 +49,15 @@ h2{
         background-color: 
         #24457c;
     }
+input[type="button"]{
+    padding: 5px;
+    font-size: 14px;
+    margin-top: 10px;
+    border-radius: 3px;
+    background-color: #fabc05;
+    border: none;
+}
+input[type="button"]:hover{
+    background-color:#dda704 ;
+    
+}
